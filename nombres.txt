@@ -1,0 +1,13 @@
+Sebastian Soto ROL:201773501-5 Paralelo: 200
+Creó las funciones: n_lineas(), busquedas(), y ordenar() del problema 2.
+Escribió la funcion main() del problema 2.
+
+Gianni Beninati ROL: 201773508-2 Paralelo: 200
+Creó las funciones: notas(), alumnos() y aprobados() del problema 1. 
+Creó las funciones: maximo() y salida() del problema 2.
+
+Raimundo Moraga ROL: 201773590-2 Paralelo: 202
+Creó las funciones: largo_notas(), largo_alumnos(), largo_cursos() y cursos() del problema 1.
+Escribió la funcion main() del problema 1.
+ 
+
